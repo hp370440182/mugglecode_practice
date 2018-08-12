@@ -1,2 +1,2 @@
 # mugglecode_practice
-python training code
+mugglecode-python training
